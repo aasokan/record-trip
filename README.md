@@ -1,4 +1,3 @@
-name-gender-classification
+food-truck
 ==========================
 
-Using OpenNLP to try out Gender classification
